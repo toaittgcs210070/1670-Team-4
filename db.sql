@@ -1,19 +1,19 @@
 use [master]
 go
 
-IF EXISTS (SELECT name FROM sys.databases WHERE name = N'FPTBookStoreTeam4')
+IF EXISTS (SELECT name FROM sys.databases WHERE name = N'FPTBook')
 	BEGIN
 		-- Database exists. Drop it
-		Drop database FPTBookStoreTeam4
+		Drop database FPTBook
 	END
 ELSE
 	BEGIN
 		-- Database does not exist. Create it
-		create database FPTBookStoreTeam4
+		create database FPTBook
 	END
 GO
 
-use FPTBookStoreTeam4
+use FPTBook
 go
 
 -- categoryId and orderId are identity columns
