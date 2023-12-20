@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YYHs52QmDrjGSgLWB79QVUkZLHO+k27UPzaJw447V1U=",
+  "Hash": "U5VsI7nDg3f2DiqveMuTMHTxs7IPyui4hmLNNUn4Eas=",
   "Source": "FPTWeb",
   "BasePath": "_content/FPTWeb",
   "Mode": "Default",
@@ -23987,6 +23987,23 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\logo.png"
     },
     {
+      "Identity": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\Uploads\\nxbKimDong.png",
+      "SourceId": "FPTWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\",
+      "BasePath": "_content/FPTWeb",
+      "RelativePath": "Uploads/nxbKimDong.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\nxbKimDong.png"
+    },
+    {
       "Identity": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\Uploads\\nxbtre_full_20342017_033410.jpg",
       "SourceId": "FPTWeb",
       "SourceType": "Discovered",
@@ -24002,6 +24019,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\nxbtre_full_20342017_033410.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\Uploads\\nxbVanHoc.png",
+      "SourceId": "FPTWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\",
+      "BasePath": "_content/FPTWeb",
+      "RelativePath": "Uploads/nxbVanHoc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\nxbVanHoc.png"
     },
     {
       "Identity": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\Uploads\\quoc-truong--15805567168361730107869.jpg",
@@ -24257,23 +24291,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\tải xuống.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\Uploads\\tải xuống.png",
-      "SourceId": "FPTWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\",
-      "BasePath": "_content/FPTWeb",
-      "RelativePath": "Uploads/tải xuống.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\tải xuống.png"
     },
     {
       "Identity": "C:\\Users\\dell\\Downloads\\FPTWeb-master\\FPTWeb-master\\FPTWeb\\wwwroot\\Uploads\\tam-ly-hoc-toi-pham-phac-hoa-chan-dung-ke-pham-toi-pdf-2.jpg",
