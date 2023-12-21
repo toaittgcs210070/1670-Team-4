@@ -1,9 +1,9 @@
 # 1670-Team-4
  Application Development Assignment code versions
 ## TODO:
-- [ ] Webpage.
-- [ ] Database.
+- [x] Webpage.
+- [x] Database.
 - [ ] Payment.
-- [ ] Model.
-- [ ] Function.
-- [ ] View.
+- [x] Model.
+- [x] Function.
+- [x] View.
