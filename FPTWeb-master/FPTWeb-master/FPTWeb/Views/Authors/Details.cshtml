@@ -1,0 +1,49 @@
+﻿@model FPTWeb.Data.Author
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Author</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @* @Html.DisplayNameFor(model => model.AuthorName) *@
+            Author Name
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AuthorName)
+        </dd>
+        <dt class = "col-sm-2">
+            @* @Html.DisplayNameFor(model => model.AuthorEmail) *@
+            Author Email
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AuthorEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @* @Html.DisplayNameFor(model => model.AuthorPhoto) *@
+            Author Photo
+        </dt>
+        <dd class = "col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.AuthorPhoto))
+            {
+                <img src="/uploads/@Html.DisplayFor(model => model.AuthorPhoto)" alt="user" style="height: 300px">
+            }
+            else
+            {
+                <p>No image available</p>
+            }
+        </dd>
+        <dt class = "col-sm-2">
+            @* @Html.DisplayNameFor(model => model.Birthdate) *@
+            Birthdate 
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Birthdate)
+        </dd>
+    </dl>
+</div>
+
